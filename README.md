@@ -20,6 +20,6 @@ I'm a backend-focused full-stack developer who loves building powerful systems a
 - Building impressive portfolio projects
 
 ## 📬 Reach Me At
-- [LinkedIn](https://www.linkedin.com/in/smitaparida25)
+- [LinkedIn](https://www.linkedin.com/in/smitaparida/)
 
 ## 🎯 Fun Fact: I’m probably thinking about a new project to start right now.
