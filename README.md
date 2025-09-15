@@ -7,7 +7,7 @@ I'm a backend-focused full-stack developer who loves building powerful systems a
 - **Tools:** Git, VS Code
 
 ## 🚀 Projects
-- **Todo App** *(work in progress)* – only todo list that you need
+- **NORA:Todo App** – only todo list that you need
 
 ## 🌱 Currently Learning
 - System Design  
