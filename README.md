@@ -8,6 +8,7 @@ I'm a backend-focused full-stack developer who loves building powerful systems a
 
 ## 🚀 Projects
 - **NORA:Todo App** – only todo list that you need
+- **Quiet hours scheduler**
 
 ## 🌱 Currently Learning
 - System Design  
